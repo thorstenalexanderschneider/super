@@ -1,0 +1,70 @@
+# ------------------------------------------------------------------------------
+# Global configuration
+# ------------------------------------------------------------------------------
+global:
+  imagePullPolicy: IfNotPresent
+
+# ------------------------------------------------------------------------------
+# Frontend site configuration
+# ------------------------------------------------------------------------------
+frontend:
+  image:
+    repository: meu-site-frontend
+    tag: latest
+    pullPolicy: IfNotPresent
+
+  replicaCount: 1
+
+  service:
+    type: NodePort
+    port: 80
+    nodePort: 30080   # You can access via http://SERVER_IP:30080
+
+  resources:
+    limits:
+      cpu: 200m
+      memory: 256Mi
+    requests:
+      cpu: 50m
+      memory: 64Mi
+
+# ------------------------------------------------------------------------------
+# Python crawler (optional, you enable below)
+# ------------------------------------------------------------------------------
+crawler:
+  enabled: false         # Set to true if you want crawler inside Kubernetes
+  image:
+    repository: meu-crawler
+    tag: latest
+    pullPolicy: IfNotPresent
+
+  schedule: "0 */6 * * *" # Every 6 hours (cronjob)
+
+  env:
+    QUERY: "tecnologia Brasil"
+    PAGES: 10
+    BRAZIL_CSV: "/data/brasil.csv"
+
+# ------------------------------------------------------------------------------
+# Cassandra configuration (optional)
+# ------------------------------------------------------------------------------
+cassandra:
+  enabled: false           # Enable only if using Cassandra
+  host: "cassandra"
+  port: 9042
+  keyspace: "jobs"
+  username: ""
+  password: ""
+
+# ------------------------------------------------------------------------------
+# Ingress (if MicroK8s enable ingress)
+# ------------------------------------------------------------------------------
+ingress:
+  enabled: false
+  className: "nginx"
+  hosts:
+    - host: "meusite.com"
+      paths:
+        - path: /
+          pathType: Prefix
+  tls: []

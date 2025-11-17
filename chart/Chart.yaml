@@ -1,0 +1,7 @@
+apiVersion: v2
+name: meu-site
+description: Helm chart for Thorsten's frontend website + Python crawler service
+type: application
+
+version: 0.1.0        # version of your chart
+appVersion: "1.0.0"   # version of your application

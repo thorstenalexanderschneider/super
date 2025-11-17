@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Plataforma Job Evolution – Juntos pelo Futuro do Trabalho</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    .hero {
+      background: #0056d6;
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+    }
+
+    .hero h1 { margin: 0; font-size: 3.5em; }
+
+    .letters span {
+      display: inline-block;
+      opacity: 0;
+      transform: translateY(40px);
+      animation: drop 1s forwards;
+      font-weight: bold;
+      font-size: 1.5em;
+      margin: 0 2px;
+    }
+
+    .letters span:nth-child(1){ animation-delay: .1s; }
+    .letters span:nth-child(2){ animation-delay: .2s; }
+    .letters span:nth-child(3){ animation-delay: .3s; }
+    .letters span:nth-child(4){ animation-delay: .4s; }
+    .letters span:nth-child(5){ animation-delay: .5s; }
+    .letters span:nth-child(6){ animation-delay: .6s; }
+
+    @keyframes drop {
+      to { opacity:1; transform:translateY(0); }
+    }
+
+    .stats {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+
+    .stats h2 { text-align:center; margin-bottom: 20px; }
+
+    .stats ul { list-style:none; padding:0; }
+
+    .stats li {
+      padding: 15px 0;
+      border-bottom: 1px solid #eee;
+      font-size: 1.2em;
+    }
+
+    .stats li span.valor {
+      color: #0056d6;
+      font-weight: bold;
+    }
+
+    .erro {
+      color: red;
+      text-align:center;
+      margin-top: 15px;
+      display:none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <section class="hero">
+    <div class="letters">
+      <span>J</span><span>U</span><span>N</span><span>T</span><span>O</span><span>S</span>
+    </div>
+    <p>Construindo o Futuro do Trabalho</p>
+  </section>
+
+  <section class="stats">
+    <h2>Tendências e Estatísticas em Tempo Real</h2>
+
+    <ul id="stats-list">
+      <li>Mudança nas competências essenciais: <span class="valor" id="skills_change">...</span>%</li>
+      <li>Crescimento do trabalho freelance/gig: <span class="valor" id="gig_growth">...</span>%</li>
+      <li>Profissões de energia limpa em crescimento: <span class="valor" id="clean_energy_growth">...</span>%</li>
+      <li>Trabalho remoto/híbrido no mundo: <span class="valor" id="remote_percentage">...</span>%</li>
+      <li>Áreas emergentes: <span class="valor" id="emerging_areas">...</span></li>
+    </ul>
+
+    <div class="erro" id="erro-api">
+      Não foi possível carregar dados ao vivo. Verifique o servidor API.
+    </div>
+  </section>
+
+  <script>
+    async function carregarDados() {
+      try {
+        const resp = await fetch("/api/future-work");
+
+        if (!resp.ok) throw new Error("API Off");
+
+        const data = await resp.json();
+
+        document.getElementById("skills_change").textContent = data.skills_change;
+        document.getElementById("gig_growth").textContent = data.gig_growth;
+        document.getElementById("clean_energy_growth").textContent = data.clean_energy_growth;
+        document.getElementById("remote_percentage").textContent = data.remote_percentage;
+        document.getElementById("emerging_areas").textContent = data.emerging_areas.join(", ");
+
+      } catch (err) {
+        document.getElementById("erro-api").style.display = "block";
+      }
+    }
+
+    // Carregar dados ao abrir e a cada 60s
+    carregarDados();
+    setInterval(carregarDados, 60000);
+  </script>
+
+</body>
+</html>

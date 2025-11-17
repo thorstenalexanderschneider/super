@@ -1,0 +1,1185 @@
+    ASCENSÃO E DECLÍNIO: ANÁLISE DO COMPORTAMENTO DAS OCUPAÇÕES
+                               NO BRASIL
+
+
+
+                                           Janaína Feijó1
+                                   Laísa Rachter de Sousa Dias2
+                                Fernando de Holanda Barbosa Filho3
+                                         Fernando Veloso4
+
+
+Resumo
+Este artigo analisa o comportamento das ocupações no mercado de trabalho brasileiro e
+caracteriza as tendências de ascensão e declínio. Utilizando uma abordagem similar à de Amaral
+et al. (2018) e os microdados da Pesquisa Nacional por Amostra Domiciliar Contínua (PNADC)
+entre os anos de 2012 e 2019, estimamos quais ocupações mais cresceram/declinaram ao longo
+desse período. A análise é realizada para o Brasil (total, formais e informais) e as cinco regiões.
+Os resultados sugerem que, entre as ocupações que mais cresceram, destacam-se as
+relacionadas aos serviços, tais como Outros Vendedores, em que a quantidade de trabalhadores
+cresceu 16,3% ao ano, e Vendedores de Rua e Postos de Mercado (11% a.a.). Essas duas
+categorias ocupacionais também comportam uma parcela significativa dos trabalhadores, 3,3%
+e 1,2%, respectivamente. Esse padrão foi mais acentuado entre os informais. As ocupações
+relacionadas a TI e “centrada nas pessoas” também figuraram entre as que mais cresceram,
+como observado em economias desenvolvidas, embora a quantidade de trabalhadores nessas
+ocupações ainda seja relativamente baixa.
+Palavras-Chaves: Mercado de trabalho. Ocupações. Ascensão. Declínio. Tendências.
+
+Abstract
+
+This paper analyzes the patterns of occupations in the Brazilian labor market and describes
+upward and downward trends. Using an approach like Amaral et al. (2018) and microdata from
+the National Continuous Household Sample Survey (PNADC), covering years 2012-2019, we
+investigate which occupations grew/declined the most over this period. The analysis is made
+for Brazil (total, formal and informal) and separately by the five regions. The results suggest
+that, among the emerging occupations, those related to services stand out, such as Other Sellers,
+in which the number of workers increased 23% per year, and Street Sellers and Market Posts
+(11% p.a.). Aside from being among the ten that grew the most, these occupations represented
+a significant share of total workers, 3.3% and 1.2%, respectively. This pattern is more
+pronounced among informal workers. IT-related and people-centric occupations, as observed
+in developed economies, were also among the fastest-growing, although the number of workers
+in these occupations is relatively low.
+
+Keywords: Labor market. Occupations. Emerging. Declining. Trends.
+
+1
+  Pesquisadora (FGV IBRE) e doutora em Economia pela Universidade do Ceará – CAEN UFC.
+2
+  Pesquisadora associada (FGV IBRE) e doutora em Economia pela Escola Brasileira de Economia e Finanças -
+FGV EPGE.
+3
+  Pesquisador (FGV IBRE) e doutor em Economia pela New York University.
+4
+  Pesquisador (FGV IBRE) e doutor em Economia pela University of Chicago.
+1. Introdução
+
+
+O crescimento exponencial das tecnologias digitais, combinado com o rápido desenvolvimento
+e implantação da robótica, inteligência artificial (IA) e novas plataformas tecnológicas, está
+acelerando o ritmo das mudanças no mercado de trabalho. Esses fenômenos, por sua vez, geram
+mudanças nas ocupações e nas demandas por habilidades.
+
+Vários estudos mostram que, no mundo desenvolvido, as ocupações compostas principalmente
+por tarefas repetitivas estão cada vez mais sendo automatizadas, e a demanda por trabalhadores
+nessas ocupações está diminuindo. Em contraste, as ocupações que requerem tarefas não
+repetitivas e, portanto, não facilmente automatizadas, estão crescendo com o tempo (OCDE
+2018).
+
+De acordo com o World Economic Forum (2020), o declínio de algumas ocupações tenderá a
+ser compensado pelo surgimento e crescimento de outras ocupações do “futuro”. Haverá uma
+crescente demanda por trabalhadores que possam preencher empregos na economia verde,
+papéis na vanguarda da economia de dados e IA, novas funções em engenharia, computação
+em nuvem e desenvolvimento de produtos.
+
+Buscando compreender quais são as principais transformações ocupacionais que o mercado de
+trabalho brasileiro tem vivenciado nos últimos anos e analisar se as tendências de ascensão e
+declínio das ocupações estão em consonância com os achados internacionais, empregamos uma
+abordagem similar à de Amaral et al. (2018). Utilizando os microdados da Pesquisa Nacional
+por Amostra Domiciliar Contínua (PNADC) entre os anos de 2012 e 2019, estima-se, a partir
+de uma tendência linear, quais ocupações mais cresceram e declinaram no Brasil (total, formais
+e informais) e nas cinco regiões ao longo desse período.
+
+Embora o estudo de Amaral et al. (2018) inclua o Brasil, seus dados são provenientes apenas
+da plataforma do LinkedIn. Dessa forma, seus resultados não são representativos da população,
+pois apenas uma pequena parcela de brasileiros, geralmente aqueles com melhores condições
+socioeconômicas e mais escolarizados, são usuários desse tipo de rede. Logo, pretendemos
+complementar os achados de Amaral et al (2018) ao captar padrões e tendências que
+representem o universo de trabalhadores brasileiros.
+
+Esse trabalho baseia-se em estudos recentes que relacionam mudanças ocupacionais,
+impulsionadas pelos avanços tecnológicos, e como elas se traduzem em mudanças de
+habilidades demandadas pelos empregadores. Vários autores também analisam os requisitos de
+habilidades de tarefas e ocupações (Autor, Katz e Kearney 2006; Autor 2013; Autor e Handel
+2013; Acemoglu e Autor 2012; Acemoglu e Restrepo 2018a, 2018c, 2018b). A presente
+pesquisa também se conecta com os relatórios de futuro do trabalho de importantes instituições
+internacionais. Bughin et al. (2018), por exemplo, indicam que a automação aumentará a
+demanda por habilidades tecnológicas avançadas, como programação, mas também a demanda
+por habilidades digitais básicas crescerá em virtude dos novos tipos de empregos que surgirão.
+Os empregos no futuro aumentarão seus requisitos de habilidades sociais e emocionais (por
+exemplo, ensinar e treinar outros, habilidades interpessoais e empatia, empreendedorismo ou
+
+                                                                                            2
+adaptabilidade e aprendizagem contínua) e habilidades cognitivas avançadas (Deming, 2017;
+Bughin et al., 2018).
+
+Por outro lado, Muro et al. (2017) evidenciam a importância das habilidades tecnológicas. Esses
+pesquisadores verificaram que uma parcela de empregos em ocupações que exigiam poucas
+habilidades digitais diminuiu entre 2002 e 2016, enquanto os componentes digitais de muitas
+ocupações que normalmente não os exigiam, como enfermeiras ou trabalhadores da construção,
+aumentaram significativamente.
+
+A análise das ocupações em ascensão e em declínio proposta nesse trabalho revelou pelo menos
+quatro tendências no Brasil: 1) crescimento das ocupações relacionadas a tecnologia intensiva,
+tais como dirigentes de serviços de TI e comunicações (9,9% a.a.) e especialistas em base de
+dados e em redes de computadores (9,8% a.a.); 2) aumento de ocupações “centradas nas
+pessoas”; 3) declínio de funções administrativas e técnicas associadas às funções repetitivas e
+operacionais e 4) expansão dos empregos relacionados aos serviços, tais como outros
+vendedores (16,3% a.a.) e vendedores de rua e postos de mercado (11,0% a.a.).
+
+As três primeiras tendências observadas são compatíveis com as evidências internacionais, em
+particular com os resultados de Amaral et al. (2018), que apontam que funções com uso
+intensivo de tecnologia estão entre as principais ocupações emergentes em diversos países,
+incluindo o Brasil5. Segundo o World Economic Forum (2020), o conjunto de profissões
+emergentes refletirá a importância contínua da interação humana na nova economia, com o
+aumento da demanda por empregos na economia do cuidado; funções em marketing, vendas e
+produção de conteúdo. A quarta tendência está muito relacionada às características da economia
+e do mercado de trabalho brasileiro, em que o setor de serviços se destaca e onde os informais
+tendem a estar proporcionalmente mais concentrados. Essa tendência também ocorre em todas
+as regiões.
+
+Este trabalho está estruturado em mais três seções, além desta introdução. Na segunda seção
+são descritos os dados e a metodologia utilizados para identificar as ocupações em ascensão e
+em declínio. Na terceira seção são comentados os resultados, colocando-os em perspectiva com
+algumas evidências internacionais. Por fim, a última seção apresenta as considerações finais.
+
+
+2. Estratégia Empírica
+
+2.1 Dados
+
+
+Para analisar quais são as ocupações que estão em declínio e ascensão no Brasil nos últimos
+anos, utilizamos os microdados da PNADC no período 2012-2019 referentes ao primeiro
+trimestre de cada ano. Os microdados foram agregados para construir três painéis: 1) ano-
+ocupação 2) ano-ocupação-vínculo 3) ano-ocupação-região. A partir desses dados em painel
+
+
+
+5
+    O estudo inclui a Austrália, França, Reino Unido, Índia, Argentina, Brasil, Chile, México e África do Sul.
+
+                                                                                                                 3
+será possível analisar as tendências e padrões das ocupações para o Brasil, desagregado por tipo
+de vínculo (formais e informais) e por regiões.
+
+Nesse trabalho foram considerados formais as pessoas ocupadas que trabalhavam no setor
+público ou privado com carteira assinada, domésticas com carteira assinada, empregador,
+militares e servidores estatutários. Já os informais6 são os trabalhadores conta própria,
+trabalhadores públicos ou privados sem carteira, domésticas sem carteira assinada e trabalhador
+familiar auxiliar.
+
+A variável “emprego” corresponde ao total de trabalhadores com 14 anos ou mais de idade em
+cada uma das ocupações em determinado período do tempo. Foi considerada o COD da
+PNADC, desagregado ao nível de subgrupo, que possui três dígitos e 127 categorias. Fez-se
+necessário aplicar alguns filtros, como a exclusão dos indivíduos que não tinham o código de
+ocupação identificado. Também foram retirados da amostra aqueles que estavam ocupados no
+GG “Membros das Forças Armadas, Policiais e Bombeiros Militares”7. Faz-se uso dos pesos
+amostrais para que nossa análise represente o universo populacional. A amostra representa mais
+de 80 milhões de pessoas ocupadas, em média, por trimestre, e o painel agregado possui 1.015
+observações e 123 categorias de ocupação.
+
+
+2.2 Metodologia
+
+
+Inicialmente,    calcula-se     as      ocupações      que    apresentaram     os     maiores
+crescimentos/decrescimentos com base na análise realizada por Amaral et al. (2018), que busca
+caracterizar as mudanças na demanda por habilidades associadas às mudanças nas ocupações.
+As tendências são obtidas a partir das taxas de crescimento estimadas pelos seguintes modelos
+econométricos:
+
+Brasil: ln(𝑒𝑚𝑝𝑖𝑡 ) = 𝛾𝑖 + ∑𝑖 𝛽𝑖 𝐼[𝑜𝑐𝑢𝑝 = 𝑖] × 𝑡 + 𝜀𝑖𝑡                                                     (1)
+
+Regiões: ln(𝑒𝑚𝑝𝑖𝑟𝑡 ) = 𝛾𝑟 + 𝛾𝑖 + 𝛾𝑖𝑟 + ∑𝑖 ∑𝑟 𝛽𝑖𝑟 𝐼[𝑜𝑐𝑢𝑝 = 𝑖] × 𝐼[𝑟𝑒𝑔𝑖ã𝑜 = 𝑟] × 𝑡 + 𝜀𝑖𝑟𝑡 (2)
+
+
+Onde 𝑒𝑚𝑝𝑖𝑡 representa a quantidade de pessoas ocupadas na categoria i e no período t.
+Analogamente, 𝑒𝑚𝑝𝑖𝑟𝑡 representa essa mesma informação para cada região 𝑟. Essas variáveis
+dependentes serão regredidas em nível e em logaritmo natural. Assim, captura-se tanto o
+crescimento absoluto quanto o crescimento percentual médio da quantidade de empregos para
+cada uma das 123 ocupações.
+
+𝐼[𝑜𝑐𝑢𝑝 = 𝑖] é uma função indicadora para cada ocupação e 𝐼[𝑟𝑒𝑔𝑖ã𝑜 = 𝑟] é uma função
+indicadora para cada região 𝑟. Os termos 𝛾𝑖 , 𝛾𝑟 , e 𝛾𝑖𝑟 são, respectivamente, os efeitos fixos de
+ocupação, região e ocupação-região. A inclusão desses efeitos fixos permite que as tendências
+
+6
+  Como a PNADC só possibilita a separação dos conta própria com e sem CNPJ a partir de 2015, não foi utilizada
+a definição que incorpora apenas os conta própria sem CNPJ no grupo dos informais.
+7
+  Optou-se por não os incluir por representarem menos de 1% das pessoas empregadas e por possuírem uma
+dinâmica diferente das demais ocupações.
+
+                                                                                                            4
+sejam estimadas em relação ao próprio nível inicial para cada região e ocupação. O parâmetro
+de interesse do estudo, 𝛽𝑖 , nos dará a taxa de crescimento médio anual (suavizada) para o
+período 2012-2019. O termo 𝜀𝑖 representa o termo de erro idiossincrático, que assumimos
+atender as hipóteses convencionais. A equação (1) é estimada separadamente para os grupos de
+trabalhadores formais e informais.
+
+Após estimar 𝛽𝑖 em cada especificação, ordenamos todas as ocupações de acordo com suas
+tendências de contratação para escolher as 10 principais ocupações que estão em ascensão e em
+declínio. Entende-se por ocupações em ascensão/declínio aquelas com maior
+aumento/diminuição na população ocupada ao longo do período observado. Assim, a
+identificação de ocupações crescentes e decrescentes é baseada na inclinação de cada reta de
+regressão. Complementarmente, criamos e analisamos alguns cenários para entender quais
+serão as ocupações que, tudo mais constante, se destacarão em um horizonte de 10 anos.
+
+
+3. Discussão dos Resultados
+
+3.1 Resultados das Estimações
+
+As tabelas desta subseção apresentam as 10 ocupações que mais cresceram/declinaram em
+termos de número de trabalhadores, no período 2012-2019 no Brasil, tanto em variação absoluta
+quanto em variação percentual. Essas duas abordagens se complementam, uma vez que é
+importante tanto identificar as novas ocupações que estão surgindo devido às novas tecnologias
+e automação no mercado de trabalho, mas que ainda não empregam uma grande quantidade de
+pessoas, como também caracterizar a evolução daquelas ocupações que possuem uma parcela
+considerável de trabalhadores.
+
+Os valores das últimas duas colunas de cada tabela referem-se aos resultados da estimação da
+equação (1) descrita na seção anterior. Para contextualizar melhor esses resultados,
+incorporamos informações sobre a quantidade de trabalhadores em cada uma dessas ocupações
+e sua representatividade nos anos 2012 e 2019.
+
+Analisando primeiramente as ocupações emergentes, Tabela 1, tem-se que dentre as 10
+ocupações com maiores incrementos médios anuais, 5 estão relacionadas ao setor de serviços e
+comércio: Outros Vendedores (297.863 pessoas), Vendedores de Ruas e Postos de Mercado
+(80.163), Comerciantes e Vendedores de Lojas (118.267), Cabelereiros (78.548) e Cozinheiros
+(58.635). Além disso, as duas primeiras ocupações citadas anteriormente também estavam entre
+as que mais cresceram em termos percentuais. Logo, entre as ocupações que registram os
+maiores aumentos estão aquelas relacionadas com a prestação de serviços relativamente mal
+remunerados, compatível com a baixa produtividade do país nos últimos anos (Veloso et al,
+2017).
+
+Ainda analisando o crescimento percentual, as tendências apontam que as ocupações
+relacionadas à transição tecnológica e demográfica também vêm ganhando peso na economia.
+A demanda por instaladores de equipamentos eletrônicos e de telecomunicações, por exemplo,
+foi a terceira ocupação que mais cresceu ao longo do período (13,1% a.a.). Outras atividades
+
+                                                                                            5
+relacionadas à Tecnologia da Informação e Comunicação, como Analistas de Dados, também
+aparecem como ocupações emergentes, com crescimento da população ocupada em torno de
+10% a.a.
+
+
+Tabela 1 – Ocupações em ascensão no Brasil entre 2012-2019
+                                                              Participação                          ∆ a.a.
+ Rk   COD3                        Descrição                   (%)              Qtde Inicial
+                                                              2012      2019                  %       Absoluta
+ Maiores Variações Absolutas
+ 1   524 Outros vendedores                                    1,2      3,3     1.070.08       16,      297.86
+ 2   522 Comerciantes e vendedores de lojas                    3
+                                                              6,8      7,4         9
+                                                                               5.970.63        3
+                                                                                              1,8         3
+                                                                                                       118.26
+ 3   611 Agricultores e Trab. qualificados em atividades da    5
+                                                              3,8      3,8         0
+                                                                               3.327.10       2,6         7
+                                                                                                       81.644
+ 4   521 agricultura
+            Vendedores de rua e postos de mercado              2
+                                                              0,6      1,2         4
+                                                                               525.236        11       80.163
+ 5   514     Cabeleireiros, especialistas em tratamento de    1,8      2,4     1.570.87       4,2      78.548
+ 6   832     beleza  e afins
+             Condutores    de automóveis, caminhonetes e      2,2      2,7         4
+                                                                               1.913.70       3,6      77.464
+ 7   753     motocicletas
+             Trab. qualificados e operários de confecção de   0,7      1,1         4
+                                                                               626.326        8,3      63.201
+ 8   322     roupas,  calçados
+             Profissionais      etc. acessórios
+                            de nível médio de enfermagem e     2
+                                                              0,7      1,0     624.796        8,3      62.529
+ 9   512     partos
+             Cozinheiros                                       2
+                                                              1,3      1,64    1.128.81       4,6      58.635
+ 1   261 Profissionais em direito                             0,6      1,01        1
+                                                                               543.929        7,8      56.552
+ 0
+ Maiores Variações Percentuais                                 2
+ 1     143 Outros gerentes de Serviços                         0,0     0,1      33.025        23,      12.245
+ 2     524 Outros vendedores                                    4
+                                                               1,2     3,3     1.070.08        0
+                                                                                              16,      297.86
+ 3     742 Inst./reparadores de equipamentos eletrônicos e      3
+                                                               0,1     0,3         9
+                                                                                92.636         3
+                                                                                              13,         3
+                                                                                                       19.685
+ 4            de telecomunicações
+       835 Marinheiros de coberta e afins                       1
+                                                               0,0     0,1     23.664          1
+                                                                                              11,      3.363
+ 5     521 Vendedores de rua e postos de mercado                3
+                                                               0,6     1,2     525.236         5
+                                                                                              11,      80.163
+ 6     133 Dirigentes de serviços de TI e comunicações         0,0     0,1     44.621          0
+                                                                                              9,9      5.852
+ 7     252    Especialistas em base  de dados e em redes de     5
+                                                               0,0     0,0     15.049         9,8      2.355
+ 8            computadores
+       516 Outros Trabalhadores de Serviços pessoais            2
+                                                               0,1     0,2     102.015        9,2      13.122
+ 9     753 Trab. qualificados e operários de confecção de       2
+                                                               0,7     1,1     626.326        8,3      63.201
+ 1            roupas, calçados
+       322 Profissionais        etc. médio de enfermagem e
+                            de nível                            2
+                                                               0,7     1,0     624.796        8,3      62.529
+ 0            partos                                            2
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+Da mesma forma, as ocupações associadas à saúde cresceram ao longo do período. Também
+designadas como ocupações “centradas nas pessoas”, esses tipos de atividades podem refletir
+algumas das tarefas criativas e sociais que são menos suscetíveis à automação e, portanto, com
+maior demanda no futuro. Outros Trabalhadores de Serviços Pessoais e Profissionais de Nível
+Médio de Enfermagem e Partos figuram entre as ocupações que mais tem crescido, com taxas
+em torno de 9% a 8% a.a.
+Em relação às ocupações em declínio, Tabela 2, foi observado que 4 das 10 ocupações com os
+maiores declínios na quantidade de trabalhadores são relacionadas ao GG “Ocupações
+Elementares”, tais como Trabalhadores Elementares da Agropecuária, da Pesca e Florestais (-
+300,489), Trabalhadores Elementares da Mineração e da Construção (-94.992), Trabalhadores
+Domésticos e de Limpeza de Interior de Edifícios (-70.743) e Vendedores Ambulantes (-
+52.560).
+
+
+
+                                                                                                                 6
+Nota-se que as ocupações que tiveram os maiores/menores crescimentos percentuais não
+apresentam um único padrão. Por exemplo, das 10 ocupações em declínio várias são atividades
+técnicas ou operacionais. Dirigentes gerais e da agropecuária também apresentam tendência
+decrescente (Tabela 2). Esse padrão também é observado para vários países do mundo,
+incluindo Austrália, Reino Unido e Chile (Amaral et al., 2018).
+
+
+Tabela 2 – Ocupações em declínio no Brasil entre 2012-2019.
+                                                                                    Participação                       ∆ a.a
+ Rk   COD3                                 Descrição                                                 Qtde
+                                                                                    2012    2019                %        Absoluta
+ Menores Variações Absolutas
+ 1     921    Trab. elementares da agropecuária, da pesca e florestais              4,49    2,52   3.910.754   -9,6      -300.489
+ 2     815    Operadores de máquinas para fabricar prod. têxteis, couro e pele      1,99    0,99   1.735.576   -11,6     -148.224
+ 3     711    Trabalhadores da construção civil em obras estruturais                4,24    3,45   3.692.247   -2,8      -100.242
+ 4     931    Trabalhadores elementares da mineração e da construção                2,42     1,7   2.105.181   -5,3       -94.992
+ 5     311    Técnicos em ciências físicas e da engenharia                          1,43    0,95   1.250.303   -7,1       -74.544
+ 6     911    Trabalhadores domésticos e de limpeza de interior de edifícios        8,73    7,85   7.608.604    -1        -70.743
+ 7     952    Vendedores ambulantes (exclusive de Serv. de alimentação)             0,85    0,41   739.867     -9,8       -52.560
+ 8     334    Secretários administrativos e especializados                          1,08     0,6   938.466     -6,7       -48.514
+ 9     721    Moldadores, soldadores, chapistas, caldeireiros e afins               1,2     0,86   1.047.283   -4,7       -43.014
+ 10    112    Diretores gerais e gerentes gerais                                    0,37    0,16   322.478     -14,5      -33.449
+ Menores Variações Percentuais
+ 1     613    Produtores e Trab. qualificados de exploração agropecuária mista      0,21    0,02   183.410     -45,1      -28.103
+ 2     112    Diretores gerais e gerentes gerais                                    0,37    0,16   322.478     -14,5      -33.449
+ 3     131    Dirigentes de prod. agropecuária, silvicultura, aquicultura e pesca   0,19    0,08   164.568     -13,7      -14.886
+ 4     314    Téc. e Profissionais de nível médio em ciências biológicas e afins    0,13    0,07   110.078     -13,6      -10.784
+ 5     413    Operadores de máquinas de escritório                                  0,09    0,04    79.855     -12,6      -6.301
+ 6     815    Operadores de máquinas para fabricar prod. têxteis, couro e pele      1,99    0,99   1.735.576   -11,6     -148.224
+ 7     313    Técnicos. em controle de processos                                    0,11    0,06    93.575     -10,4      -7.655
+ 8     952    Vendedores ambulantes (exclusive de Serv. de alimentação)             0,85    0,41   739.867     -9,8       -52.560
+ 9     921    Trabalhadores. elementares da agropecuária, da pesca e florestais     4,49    2,52   3.910.754   -9,6      -300.489
+ 10    111    Membros superiores do poder executivo e legislativo                   1,11    0,45   137.855     -8,7       -18.599
+Fonte: Elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+
+A Figura 1 apresenta um gráfico de calor com as ocupações em ascensão e declínio em termos
+percentuais para as regiões do país. Embora as 20 ocupações que mais ascenderam/declinaram
+sejam reflexos das características do mercado de trabalho de cada região, observou-se que 8
+ocupações são comuns às cinco regiões. Em relação as emergentes, destacam-se Outros
+Gerentes de Serviços (oscilando em torno de 16% a 25% entre as regiões), Outros Vendedores
+(variando em torno de 14% a 20%) e Instaladores e Reparadores de Equipamentos Eletrônicos
+e de Telecomunicações (oscilando em torno de 10% a 23%).
+
+A pouca heterogeneidade regional entre as ocupações em declínio é ainda mais evidente. Em
+todas as regiões do país observamos decrescimento de trabalhadores qualificados de exploração
+agropecuária mista (variando em torno de 38% a 67% entre as regiões), seguida de Diretores e
+Gerentes Gerais (11% a.a. a 24% a.a.) e Operadores de Máquinas para Fabricar Produtos de
+
+
+                                                                                                                                    7
+Têxteis e Artigos de Couro e Pele (8% a 25%). Como já observado anteriormente, há um
+declínio de atividades técnicas, operacionais e administrativas em todas as regiões.
+
+
+Figura 1 - Ocupações em ascensão e em declínio nas regiões brasileiras no período 2012-2019.
+
+
+
+
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+
+
+Vale destacar que o declínio dos empregos como Diretores e Gerentes Gerais podem sugerir
+que o mercado de trabalho esteja requerendo diretores e gerentes mais especializados, como é
+o caso da expansão dos empregos de Outros Gerentes de Serviços.
+
+As Tabelas 3 e 4 mostram as tendências de ascensão e declínio, respectivamente, para os
+trabalhadores formais. As ocupações relacionadas aos setores de serviços, tais como Outros
+Vendedores (57.824 a.a.), Comerciantes e Vendedores de Lojas (53.375 a.a.), Cuidadores de
+Crianças (28.895 a.a.) e Cozinheiros (22.551 a.a.), continuaram se destacando entre as que mais
+aumentaram a quantidade de trabalhadores formais nos últimos anos (Tabela 3).
+
+Outros Vendedores vêm obtendo um incremento anual de 57.824 trabalhadores e crescendo em
+torno de 9.0% a.a. Os Cuidadores de Crianças e Ajudantes de Professores têm aumentado em
+torno de 7,6% ao ano, com um incremento anual de 52.897 pessoas. Vale ressaltar a importância
+das ocupações Comerciantes e Vendedores de Lojas e Escriturários Gerais entre os formais,
+pois embora elas tenham aumentado sua participação apenas em 1 p.p. ao longo do período, já
+possuíam um nível bastante elevado em comparação com as demais categorias. Para ilustrar,
+cerca de 7,55% e 6,31% dos formais estavam trabalhando nessas ocupações, respectivamente,
+em 2019.
+
+
+
+                                                                                             8
+Tabela 3 – Ocupações em ascensão entre os trabalhadores formais brasileiros no período
+2012-2019.
+                                                                                       Participação     Qtde             ∆ a.a
+ Rk    COD3    Descrição
+                                                                                       2012    2019    inicial     %      Absoluta
+ Maiores Variações Absolutas
+ 1     524     Outros vendedores                                                       1,05    1,69   499.220      9       57.824
+ 2     522     Comerciantes e vendedores de lojas                                      6,83    7,55   3.237.825   1,5      53.375
+ 3     322     Profissionais de nível médio de enfermagem e partos                     1,12    1,61   531.280     8,2      52.897
+ 4     411     Escriturários gerais                                                    5,35    6,31   2.534.565   1,4      40.435
+ 5     121     Dirigentes de administração e de Serviços                               1,74     2,2   824.034     3,3      31.924
+ 6     531     Cuidadores de crianças e ajudantes de professores                       0,6     0,95   284.442     7,6      28.895
+ 7     226     Outros Profissionais da saúde                                           0,6     0,92   284.361     6,7      24.389
+ 8     512     Cozinheiros                                                             1,36    1,59   645.928     3,2      22.551
+ 9     611     Agricultores e trab. qualificados em atividades da agricultura          0,63    0,83   298.612     6,3      21.073
+ 10    242     Especialistas em organização de administração                           0,55    0,87   261.315     6,1      20.522
+ Maiores Variações Percentuais
+ 1     143     Outros gerentes de serviços.                                            0,05    0,15    22.307     21,1      7.579
+ 2     223     Profissionais da medicina tradicional e alternativa                     0,00    0,00     926       11,4       135
+ 3     133     Dirigentes de serviços de TI e comunicações                             0,08    0,14    38.551     10,2      5.406
+ 4     252     Especialistas em base de dados e em redes de computadores               0,03    0,07    14.825     9,0       2.087
+ 5     524     Outros vendedores                                                       1,05    1,69   499.220     9,0      57.824
+ 6     322     Profissionais de nível médio de enfermagem e partos                     1,12    1,61   531.280     8,2      52.897
+ 7     341     Profissionais de nível médio de serv. jurídicos, sociais e religiosos   0,35    0,59   164.240     7,8      18.523
+ 8     531     Cuidadores de crianças e ajudantes de professores                       0,6     0,95   284.442     7,6      28.895
+ 9     342     Trabalhadores do esporte e condicionamento físico                       0,12    0,21    55.644     7,3       5.690
+ 10    222     Profissionais de enfermagem e partos                                    0,4     0,68   187.606     7,1      18.252
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+
+Embora algumas ocupações dos serviços venham apresentando os maiores incrementos anuais,
+quando olhamos para as taxas percentuais identificamos que outras ocupações, principalmente
+relacionadas a TI e saúde, começam a emergir entre os formais, mesmo que ainda possuam
+participação pequena. Entre elas destacam-se Dirigentes de Serviços de TI e Comunicações
+(10,2% a.a.), Especialistas em Base de Dados e em Redes de Computadores (9,0%),
+Trabalhadores do Esporte e Condicionamento Físico (7,3% a.a.) e Profissionais de Enfermagem
+e partos (7,1% a.a.).
+
+Entre as ocupações que estão declinando, em termos absolutos, estão aquelas de caráter mais
+técnico e operacional da indústria, principalmente os do GG 7 e 8, que são os operários e
+artesãos da construção, das artes mecânicas, da metalurgia, dentre outros (Tabela 4). Observa-
+se que a quantidade de trabalhadores domésticos e outros trabalhadores de limpeza, que têm
+uma participação relevante nos empregos formais (7%), têm caído em torno de 41.791 postos
+a.a. Em relação às que mais decresceram em termos percentuais, aparecem os dirigentes [gerais
+(-14,2% a.a.), membros superiores do poder legislativo (-14,0% a.a.) e de produção
+agropecuária e afins (-10,6 a.a.)], trabalhadores elementares [mineração e construção (-13,3%
+a.a.) e ambulantes dos serviços afins (-11,8% a.a.)].
+
+
+
+                                                                                                                                    9
+Tabela 4 – Ocupações em declínio entre os trabalhadores formais brasileiros no período
+2012-2019.
+                                                                                    Participação     Qtde              ∆ a.a
+ Rk    COD3    Descrição
+                                                                                    2012   2019     inicial     %        Absoluta
+ Menores Variações Absolutas
+ 1      711    Trabalhadores da construção civil em obras estruturais               2,15    1,35   1.020.496   -7,8       -66.191
+ 2      311    Técnicos em ciências físicas e da engenharia                         1,97    1,32   931.342     -7,2       -56.538
+ 3      931    Trab. elementares da mineração e da construção                       1,19    0,53   564.331     -13,3      -51.703
+ 4      334    Secretários administrativos e especializados                         1,71    0,97   812.329     -7,2       -44.877
+ 5      911    Trab. domésticos e outros Trab. de limpeza de interior edifícios     7,75    7,17   3.673.987   -1,2       -41.791
+ 6      721    Moldadores, soldadores, chapistas, caldeireiros e afins              1,36    0,87   642.742     -7,2       -38.099
+ 7      815    Operadores de máquinas para fabricar prod. têxteis, couro e pele     1,56    1,1    738.893     -5,5       -34.243
+ 8      112    Diretores gerais e gerentes gerais                                   0,55    0,25   262.785     -14,2      -26.660
+ 9      821    Montadores                                                           0,83    0,52   391.489     -7,5       -24.612
+ 10     832    Condutores de automóveis, caminhonetes e motocicletas                1,78    1,45   844.070     -2,8       -21.587
+ Menores Variações Percentuais
+ 1      224    Paramédicos                                                           0       0       966       -32,8       -125
+ 2      613    Profissionais e Trab. qualificados de exploração agrop. mista        0,06    0,01    28.767     -32,1       -4.077
+ 3      323    Profissionais de nível médio de medicina tradicional e alternativa   0,01     0      3.244      -17,9       -289
+ 4      413    Operadores de máquinas de escritório                                 0,12    0,05    58.925     -14,4       -5.204
+ 5      112    Diretores gerais e gerentes gerais                                   0,55    0,25   262.785     -14,2      -26.660
+ 6      111    Membros superiores do poder executivo e legislativo                  0,33    0,17   158.299     -14        -15.501
+ 7      931    Trabalhadores elementares da mineração e da construção               1,19    0,53   564.331     -13,3      -51.703
+ 8      951    Trabalhadores. ambulantes dos serviços e afins                       0,02    0,01    10.607     -11,8       -733
+ 9      232    Professores de formação profissional                                 0,17    0,1     79.158     -11,8       -6.205
+ 10     131    Dirigentes de prod. agropecuária, silvicultura, aquicultura/´pesca   0,22    0,11   103.175     -10,6       -8.119
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+Regionalmente (Figura 2), também identificamos algumas semelhanças em relação ao padrão
+observado no Brasil. Por exemplo, Outros Gerentes de Serviços tem crescido no Centro Oeste
+(13,1% a.a.) e mais acentuadamente nas demais regiões, variando em torno de 21% a 23% a.a.
+Outros Vendedores e Profissionais de Nível Médio de Enfermagem e Partos também tem
+crescido entre as regiões, oscilando de 7% a 10% a.a. No Nordeste e Centro Oeste, os
+Cuidadores de Crianças e Ajudantes e os Instaladores e Reparadores de Equipamentos
+eletrônicos e de telecomunicações tem crescido quase o dobro do observado no Sudeste.
+
+Além disso, constatamos o mesmo padrão de declínio do Brasil nas regiões, com diminuição
+de trabalhadores nas ocupações de diretores e gerentes, técnico e trabalhadores da
+indústria/agropecuária e algumas ocupações elementares. Os produtores e trabalhadores
+qualificados de exploração e agropecuária mista vem diminuindo ao longo do tempo, mais
+acentuadamente no Nordeste (-45,8% a.a.) e menos acentuadamente no Sudeste (-21,2% a.a.).
+Os Operadores de Máquina de Escritório também estão entre as ocupações que mais
+declinaram, variando de -27,8% e -7,0% a.a. entre as regiões (Figura 2).
+
+
+
+
+                                                                                                                               10
+Figura 2 - Ocupações em ascensão e sem declínio entre os trabalhadores formais nas regiões
+brasileiras no período 2012-2019.
+
+
+
+
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+
+Por fim, as Tabelas 5 e 6 trazem as tendências apenas entre os trabalhadores informais.
+Novamente percebemos que, de acordo com a Tabela 5, as ocupações que apresentaram os
+maiores incrementos são as de serviços, como Outros Vendedores (240.039), Cabelereiros
+(84.478 ), Vendedores de Rua e Postos de Mercado (77.465), Comerciantes e Vendedores de
+Lojas (64.892), Trabalhadores de Cuidados Pessoais nos Serviços de Saúde (38.292) e
+Cozinheiros (36.084).
+
+A classificação de Outros Vendedores inclui vendedores a domicílio e por telefone, frentistas
+de posto de gasolina, modelos de moda, balconistas de serviços de alimentação, entre outros.
+As ocupações de serviços têm um peso maior entre os informais do que os formais. Por
+exemplo, cerca de 22% dos trabalhadores informais estavam em uma dessas seis ocupações
+emergentes. Entre os formais, apenas 4 ocupações de serviços aparecem como mais emergentes,
+representando 11,8% dos trabalhadores formais.
+
+Vale destacar que a ocupação Condutores de Automóveis, Caminhonetes e Motocicletas estão
+entre as que mais declinaram entre os formais, mas figuram entre as de maiores incrementos
+entre os informais. Essa expansão pode estar relacionada, dentre outros fatores, à elevação e
+popularização dos motoristas de aplicativos e serviços de entrega de alimentação, que
+geralmente não possuem carteira assinada.
+
+Em termos percentuais, Especialistas em Base de Dados e Outros Gerentes de Serviços
+apresentaram os maiores crescimentos, 31,1% e 26,5%, respectivamente. Mas essas ocupações
+ainda representam uma quantidade muito pequena dos trabalhadores informais, menor ainda do
+
+                                                                                          11
+que a verificada entre os formais. Outros Vendedores, que já tinha apresentado o maior
+incremento médio, também apresentou um alto crescimento (20,6%).
+
+
+Tabela 5 – Ocupações em ascensão entre os trabalhadores informais brasileiros no período
+2012-2019.
+                                                                                Participação (%)                         ∆ a.a
+ Rk   COD3     Descrição                                                                           Qtde inicial
+                                                                                2012      2019                     %       Absoluta
+ Maiores Variações Absolutas
+ 1     524     Outros vendedores                                                1,44       5,02     570.869       20,6     240.039
+ 2     832     Condutores de automóveis, caminhonetes e motocicletas            2,69       4,13    1.069.634      7,4       99.051
+ 3     514     Cabeleireiros, especialistas em tratamento de beleza e afins      3,5       4,59    1.391.817      5,0       84.478
+ 4     521     Vendedores de rua e postos de mercado                            1,23       2,36     490.181       11,4      77.465
+ 5     753     Trab. qualificados e opera. confecção de roupas e calçados       0,94       1,69     373.331       13,0      65.190
+ 6     522     Comerciantes e vendedores de lojas                               6,87       7,29    2.732.805      2,2       64.892
+ 7     611     Agricultores e trab. qualificados em atividades da agricultura   7,61       6,98    3.028.492      2,2       60.571
+ 8     532     Trabalhadores de cuidados pessoais nos serviços de saúde         0,57       1,09     225.898       11,4      38.292
+ 9     261     Profissionais em direito                                         0,77       1,29     304.962       9,1       37.588
+ 10    512     Cozinheiros                                                      1,21       1,7      482.883       6,2       36.084
+ Maiores Variações Percentuais
+ 1     252     Especialistas em base de dados e em redes de computadores        0,00       0,01        224        31,1       268
+ 2     143     Outros gerentes de serviços.                                     0,03       0,06      10.718       26,5      4.665
+ 3     742     Inst/rep. de equipamentos eletrônicos e de telecomunicações      0,09       0,3       35.806       21,2      15.181
+ 4     524     Outros vendedores                                                1,44       5,02     570.869       20,6     240.039
+ 5     835     Marinheiros de coberta e afins                                   0,03       0,05      10.225       19,9      2.158
+ 6     516     Outros Trabalhadores de Serviços pessoais                        0,07       0,22      29.541       15,1      8.496
+ 7     214     Engenheiros (exclusive eletrotecnólogos)                         0,16       0,3       61.658       13,8      11.046
+ 8     753     Trab. qualificados e op. confecção de roupas e calçados          0,94       1,69     373.331       13        65.190
+ 9     532     Trabalhadores de cuidados pessoais nos Serv. de saúde            0,57       1,09     225.898       11,4      38.292
+ 10    521     Vendedores de rua e postos de mercado                            1,23       2,36     490.181       11,4      77.465
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+Entre as ocupações com os maiores decrescimentos, Tabela 6, aparecem algumas em comum
+com os formais, que são 1) Produtores e Trabalhadores Qualificados de Exploração
+Agropecuária Mista (-49,3%), 2) Dirigentes de Produção Agropecuária, Silvicultura,
+Aquicultura e Pesca e 3) Dirigentes Gerais e Gerentes Gerais. A queda consistente de postos de
+trabalhos relacionados a essas ocupações entre os formais e informais pode ser reflexo das
+mudanças tecnológicas e as novas demandas no mercado de trabalho.
+
+Algumas ocupações que apresentaram decrescimento entre os informais, tanto em termos
+absolutos quanto percentuais, não necessariamente apontam para os seus declínios na
+economia. Essas reduções podem estar captando as transições de trabalhadores para a
+formalização. Por exemplo, tem-se os Gerentes de Hotéis e Restaurantes com redução de -
+14.536 trabalhadores (-13% a.a.). Essa categoria cresceu 3,08% entre os formais, ficando em
+31ª posição no ranking.
+
+
+
+
+                                                                                                                                 12
+Tabela 6 – Ocupações em declínio entre os trabalhadores informais brasileiros no período
+2012-2019.
+                                                                                  Participação (%)     Qtde              ∆ a.a
+ Rk   COD3    Descrição
+                                                                                   2012     2019      inicial     %        Absoluta
+ Menores variações absolutas
+
+ 1     921    Trab. elementares da agropecuária, pesca e florestais                8,42      4,38    3.350.643   -10,7      -279.449
+ 2     815    Op. de máquinas para fabricar prod. têxteis, couro e pele            2,51      0,86    996.683     -17,7      -113.981
+ 3     952    Vendedores ambulantes (exclusive de Serv. de alimentação)            1,83      0,86    727.421     -9,9       -52.317
+ 4     931    Trabalhadores elementares da mineração e da construção               3,87      3,01    1.540.851   -3,1       -43.288
+ 5     711    Trabalhadores da construção civil em obras estruturais               6,72      5,77    2.671.751   -1,3       -34.051
+ 6     911    Trab. domésticos e outros trab. de limpeza de interior edifícios     9,89      8,6     3.934.617   -0,8       -28.952
+ 7     142    Gerentes de comércios atacadistas e varejistas                       0,61      0,21    241.225     -15,3      -24.240
+ 8     613    Produtores e trab. qualificados de exploração agrop. mista           0,39      0,03    154.644     -49,3      -24.027
+ 9     311    Técnicos em ciências físicas e da engenharia                         0,8       0,54    318.960     -6,9       -18.006
+ 10    141    Gerentes de hotéis e restaurantes                                    0,45      0,15    180.490     -13,0      -14.536
+ Menores variações percentuais
+
+ 1     613    Prod. e Trab. qualificados de exploração agropecuária mista          0,39      0,03    154.644     -49,3      -24.027
+ 2     314    Técnicos e Prof. de nível médio em ciências biológicas e afins       0,13      0,03     50.052     -26,1       -7.926
+ 3     131    Dirigentes de prod. agropecuária, silvicultura, aquicultura/pesca    0,15      0,04     61.393     -21,9       -6.767
+ 4     815    Op. de máquinas para fabricar prod. têxteis, couro e pele            2,51      0,86    996.683     -17,7      -113.981
+ 5     112    Diretores gerais e gerentes gerais                                   0,15      0,06     59.693     -15,8       -6.789
+ 6     212    Matemáticos, atuários e estatísticos                                  0         0        829       -15,3           -64
+ 7     142    Gerentes de comércios atacadistas e varejistas                       0,61      0,21    241.225     -15,3      -24.240
+ 8     315    Técnicos e controladores da navegação marítima e aeronáutica         0,03      0,02     13.220     -14,3       -1.631
+ 9     141    Gerentes de hotéis e restaurantes                                    0,45      0,15    180.490     -13,0      -14.536
+ 10    313    Técnicos em controle de processos                                    0,01      0,00     3.257      -11,5           -427
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+
+Também observamos que, embora não ocorram grandes heterogeneidades regionais em relação
+ao tipo de ocupações em ascensão e declínio dos trabalhadores informais, há em termos de suas
+magnitudes (Figura 3). A expansão dos Outros Gerentes de Serviços variou em torno de 24% e
+33% nas regiões, sem considerar o Nordeste, e dos Outros Vendedores ficou entre 18% e 22%.
+A quantidade de Produtores e Trabalhadores Qualificados de Exploração Agropecuária e afins
+vem caindo fortemente nas regiões Norte (-85,9%), Nordeste (-63,8%), Sudeste (-48,4%), Sul
+(-39,9%) e Centro Oeste (-75,7%). Outras ocupações com declínios expressivos são os Técnicos
+e Profissionais de Nível Médio em Ciências Biológicas e os Dirigentes de Produção
+Agropecuária.
+
+
+
+
+                                                                                                                                        13
+Figura 3 - Ocupações em ascensão e em declínio entre os trabalhadores informais nas regiões
+brasileiras no período 2012-2019.
+
+
+
+
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+Nossos resultados são próximos, principalmente no caso dos trabalhadores formais, aos
+encontrados no estudo de Amaral et al. (2018). Esses autores encontram que consultores,
+desenvolvedores de softwares, especialistas em marketing e estrategistas de negócios (com
+cargos como membros do conselho e executivos) estão surgindo rapidamente em muitos países,
+inclusive no Brasil. Por outro lado, os empregos administrativos estão em declínio no Brasil,
+sendo a segunda atividade com maior queda quando se considera os 10 países incluídos no
+estudo. Os principais cargos vinculados a esta ocupação no LinkedIn são assistente
+administrativo, gerente de escritório, recepcionista, assistente e secretária. Aplicativos de
+software e outros avanços na tecnologia que absorvem as tarefas executadas por funcionários
+administrativos podem estar causando esse declínio. Técnicos e outros especialistas de suporte,
+assim como as ocupações de comerciantes de mecânica e manutenção, técnicos e especialistas
+em logística, também estão em declínio.
+
+
+3.2 Cenários
+
+Assumindo que as taxas de crescimento médias anuais estimadas para o período 2012-2019
+persistam para os próximos anos, projetamos o nível de empregos das diversas ocupações
+considerando o nível inicial de 2019. Com isso podemos calcular a participação de cada
+ocupação para um horizonte de cinco e dez anos à frente.
+
+A Tabela 7 mostra as 15 ocupações que tenderão, ceteris paribus, a possuir as maiores
+participações no futuro. A tabela está ranqueada pelas maiores participações em 2029 e
+
+
+                                                                                            14
+possibilita visualizar quais foram as maiores alterações ocorridas no ranking de 2029 em
+comparação a 2019. O ranking completo pode ser visto na Tabela 1B do Anexo B.
+
+Observa-se que Outros Vendedores continuarão tendo um papel de destaque, mais que
+dobrando sua participação. Em seguida tem-se os Comerciantes e Vendedores, mantendo sua
+participação relativa estável. Embora os trabalhadores domésticos, escriturários gerais,
+trabalhadores da construção civil e professores apresentem redução em suas participações,
+ainda permanecerão em posições de destaque.
+
+
+Tabela 7 – Cenário: top 15 ocupações com maiores participações no futuro – Brasil.
+ COD                                                                               2019            2024            2029
+                                Descrição da cupação                                         (5Share
+                                                                                                anos depois)     (10 anos
+  3                                                                             Shar    Rk               Rk    Share      Rk
+                                                                                e (%)           (%)               depois)
+                                                                                                                (%)
+ 524   Outros vendedores                                                        3,27    6         6,46    3    11,84      1
+ 522   Comerciantes e vendedores de lojas                                       7,43    2        7,55     1    7,10       2
+ 911   Trab. domésticos e outros trab. de limpeza de interior edifícios         7,85    1        6,94     2    5,68       3
+ 611   Agricultores e trabalhadores qualificados em atividades da agricultura   3,75    4        3,96     4    3,87       4
+ 411   Escriturários gerais                                                     3,95    3        3,96     5    3,67       5
+ 832   Condutores de automóveis, caminhonetes e motocicletas                    2,72    7        3,01     6    3,08       6
+ 514   Cabeleireiros, especialistas em tratamento de beleza e afins             2,37    9        2,70     8    2,85       7
+ 521   Vendedores de rua e postos de mercado                                    1,20   22        1,87    13    2,71       8
+ 711   Trabalhadores da construção civil em obras estruturais                   3,45    5        2,77     7    2,06       9
+ 512   Cozinheiros                                                              1,64   17        1,91    12    2,05      10
+ 612   Criadores e trabalhadores. qualificados da pecuária                      1,89   13        2,03    10    2,01      11
+ 753   Trab. qualificados e op. confecção de roupas, calçados e acessórios      1,08   24        1,50    18    1,92      12
+ 234   Professores do ensino fundamental e pré-escolar                          2,27   10        2,15     9    1,89      13
+ 322   Profissionais de nível médio de enfermagem e partos                      1,00   26        1,38    21    1,77      14
+ 723   Mecânicos e reparadores de máquinas                                      1,79   14        1,85    14    1,77      15
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+Vale ressaltar que 46% das pessoas empregadas em 2019 estavam em uma dessas 15 ocupações.
+Em 2029 esse percentual subirá para 54%. Ou seja, sob o cenário construído, os empregos
+tenderão a estar mais concentrados em menos ocupações. Os resultados da Tabela 7 devem, no
+entanto, ser interpretados com cautela, uma vez que efeitos externos que afetem o mercado de
+trabalho, como crises econômicas e mudanças tecnológicas, podem agir no sentido de acelerar,
+atrasar, ou até mesmo mudar os padrões encontrados.
+
+
+4. Considerações Finais
+
+
+Neste estudo foram analisadas as ocupações que estão crescendo e diminuindo, em termos de
+quantidade de trabalhadores, no Brasil no período 2012-2019. Os resultados corroboram a
+literatura internacional sobre o tema no que tange ao crescimento de ocupações intensivas em
+tecnologia e relacionadas ao cuidado, bem como o declínio de funções administrativas e
+técnicas associadas a funções repetitivas e operacionais.
+
+De acordo com o World Economic Forum (2020), os empregadores esperam que até 2025, as
+funções cada vez mais redundantes caiam de 15,4% da força de trabalho para 9% e que as
+profissões emergentes cresçam de 7,8% para 13,5%. O relatório também destaca que,
+                                                                                                                           15
+mundialmente, há uma demanda crescente dos empregadores por Analistas e Cientistas de
+Dados, Especialistas em IA, Engenheiros de Robótica, Desenvolvedores de Software e
+Aplicativos, Especialistas em Automação de Processos e Analistas de Segurança da
+Informação.
+Embora essas tendências tenham sido observadas no Brasil, é necessário destacar que as
+ocupações relacionadas a TI ainda representam uma parcela muito pequena do total de
+empregos. Por outro lado, as ocupações de serviços, como vendedores, comerciantes,
+cabelereiros e cozinheiros comportam uma grande quantidade de trabalhadores e têm
+apresentado incrementos consideráveis ao longo dos anos, algumas delas com taxas de
+crescimento superiores às verificadas em ocupações de TI.
+Esses achados sugerem que as mudanças na força de trabalho e nas ocupações ocasionadas
+pelos rápidos avanços nas tecnologias digitais tenderão a acontecer em um ritmo mais lento no
+Brasil do que nos países desenvolvidos. Isso se deve às características próprias do mercado de
+trabalho brasileiro, que possui uma força de trabalho com baixa nível educacional e um grande
+contingente de pessoas atuando informalmente, principalmente no setor de serviços.
+Contudo, as ocupações emergentes e em declínio também podem indicar uma mudança
+subjacente em direção aos tipos de tarefas e habilidades que podem ser mais resistentes à
+automação, inteligência artificial e outras tecnologias digitais de rápido avanço. Frey e
+Osbourne (2017), por exemplo, identificaram três conjuntos de tarefas que têm sido difíceis de
+automatizar: 1) tarefas relacionadas à percepção e manipulação que são realizadas em situações
+complexas e não estruturadas; 2) tarefas relacionadas à inteligência criativa; e 3) tarefas
+relacionadas à inteligência social. As principais habilidades que os empregadores veem
+crescendo em proeminência até 2025 incluem o pensamento crítico e analítico, resolução de
+problemas e habilidades em autogestão, como aprendizagem ativa, resiliência, tolerância ao
+estresse e flexibilidade (World Economic Forum, 2020).
+Por fim, o presente estudo buscou caracterizar o comportamento das ocupações no Brasil e
+analisar um tema relevante que tem sido alvo de grandes debates internacionalmente: o futuro
+do trabalho. Além disso, pretendemos contribuir para a expansão das pesquisas acadêmicas na
+área, que ainda são poucas, e incentivar os debates em nível nacional.
+
+
+Referências
+
+Acemoglu, Daron, and David Autor. 2012. “What Does Human Capital Do? A Review of
+Goldin and Katz’s The Race between Education and Technology.” Journal of Economic
+Literature 50 (2): 426–63. https://doi.org/10.1257/jel.50.2.426.
+
+Acemoglu, Daron, and Pascual Restrepo. 2018a. “Demographics and Automation.”
+
+———. 2018b. “Artificial Intelligence, Automation and Work.” Cambridge, MA.
+
+———. 2018c. “The Race between Man and Machine: Implications of Technology for
+Growth, Factor Shares, and Employment.” American Economic Review 108 (6): 1488–1542.
+
+                                                                                           16
+Amaral, N., Eng, N., Ospino, C., Pagés, C., Rucci, G., Williams, N., ... & Pinzón, L. 2018.
+How far can your skills take you. Washington DC: Inter-American Development Bank.
+
+Autor, David H. 2013. “The ‘Task Approach’ to Labor Markets: An Overview.” Journal for
+Labour Market Research 46 (3): 185–99.
+
+Autor, David H., and Michael J. Handel. 2013. “Putting Tasks to the Test: Human Capital,
+Job Tasks, and Wages.” Journal of Labor Economics 31 (S1): S59–96.
+
+Autor, David H, Lawrence F Katz, and Melissa S Kearney. 2006. “The Polarization of the U.S.
+Labor Market.” American Economic Review 96 (2): 189–94.
+
+Bughin, Jacques, Eric Hazan, Susan Lund, Peter Dahlström, Anna Wiesinger, and Amresh
+Subramaniam. 2018. “Skill Shift: Automation and the Future of the Workforce.” Discussion
+Paper.
+
+Frey, Carl Benedikt, and Michael A. Osborne. 2017. “The Future of Employment: How
+Susceptible Are Jobs to Computerisation?” Technological Forecasting and Social Change 114
+(January). North-Holland: 254–80.
+
+Ministério do Trabalho e Emprego. 2010. Classificação Brasileira de Ocupações: CBO - 2010
+- 3a ed. Brasília: MTE, SPPE.
+
+Muro, Mark, Sifan Liu, Jacob Whiton, and Siddharth Kulkarni. 2017. “Digitalization and The
+American Workforce,” no. November: 1–60.
+
+OECD. 2018. “Key Facts about the Risk of Job Automation in OECD Countries,” no. March:
+4. www.oecd.org/ employment/future-of-work.htm.
+
+Veloso, F. A., Matos, S. M., Ferreira, P. C., & Coelho, B. P. 2017. O Brasil em comparações
+internacionais de produtividade: uma análise setorial. In Bonelli, R., Veloso, F., & Pinheiro, A.
+C. Anatomia da produtividade no Brasil. Rio de Janeiro: IBRE/FGV e Elsevier, Rio de Janeiro.
+
+World Economic Forum. 2020. The Future of Jobs Report 2020. Geneva: World Economic
+Forum.
+
+
+
+
+                                                                                              17
+ANEXO A - Tabela A1 – Classificação dos Grandes Grupos (GG) e Subgrupos (SG) do COD.
+ GG   SG                                  Descrição                          GG   SG                              Descrição                               GG   SG                                     Descrição
+  1         DIRETORES E GERENTES                                                  321   Téc. médicos e farmacêuticos                                           712   trab. qualificados da construção (acabamento)
+      111   Membros superiores do poder executivo e legislativo                   322   Profissionais de nível médio de enfermagem e partos                    713   Pintores, limpadores de fachadas e afins
+      112   Diretores gerais e gerentes gerais                                    323   Profis. de nível médio de medicina tradicional e alternativa           721   Moldadores, soldadores, chapistas, caldeireiros e afins
+      121   Dirigentes de administração e de serviços                             324   Téc. e assistentes veterinários                                        722   Ferreiros, ferramenteiros e afins
+      122   Dirigentes de vendas, comercialização e desenvolvimento               325   Outros profissionais de nível médio da saúde                           723   Mecânicos e reparadores de máquinas
+      131   Dirigentes de prod. Agropec., silvicultura, aquicultura/pesca         331   Profissionais de nível médio em finanças e matemática                  731   Artesãos
+      132   Dirigentes de indústria de transf., mineração, construção             332   Agentes e corretores comerciais                                        732   Trab. qualificados e op. das artes gráficas
+      133   Dirigentes de serviços de TI e comunicações                           333   Agentes de serviços comerciais                                         741   Instaladores e reparadores de equipamentos elétricos
+      134   Dirigentes e gerentes de serviços profissionais                       334   Secretários administrativos e especializados                           742   Inst/Rep de equipamentos eletrônicos e de telecomunicações
+      141   Gerentes de hotéis e restaurantes                                     335   Agentes da adm. pública para aplicação da lei e afins                  751   trab. qualificados do processamento de alimentos e afins
+      142   Gerentes de comércios atacadistas e varejistas                        341   Profis. de nível médio de serv. jurídicos, sociais e religiosos        752   Trab. qualificados do tratamento da madeira, marceneiros
+      143   Outros gerentes de serviços                                           342   trab. do esporte e condicionamento físico                              753   Trab. qualif. e op. da confecção de roupas, calçados e outros
+ 2          PROFISSIONAIS DAS CIÊNCIAS E INTELECTUAIS                             343   Profis. de nível médio em ativ. culturais, artísticas e                754   Outros trab. qualificados e op. da indústria e do artesanato
+      211   Físicos, químicos e afins                                             351   culinárias
+                                                                                        Téc. em operações de TI e das comunicações e assistência          8                OPERADORES DE INSTALAÇÕES E MÁQUINAS E MONTADORES
+      212   Matemáticos, atuários e estatísticos                                  352   Téc. em telecomunicações e radiodifusão                                811   Op. de inst. mineradoras, de extração e proces. de minerais
+      213   Profissionais em ciências biológicas                             4          TRABALHADORES DE APOIO ADMINISTRATIVO                                  812   Op. de instalações de proces. e recobridoras de metais
+      214   Engenheiros (exclusive eletrotecnólogos)                              411   Escriturários gerais                                                   813   Op. de instalações e máquinas de prod. Químicos/fotográficos
+      215   Engenheiros eletroTéc.                                                412   Secretários (geral)                                                    814   Op. de máquinas para fabricar prod. borracha, papel eplástico
+      216   Arquitetos, urbanistas, agrimensores e desenhistas                    413   Operadores de máquinas de escritório                                   815   Op. de máquinas para fabricar prod. têxteis, couro e pele
+      221   Médicos                                                               421   Caixas de banco, cobradores, pagadores e afins                         816   Op. de máquinas para elaborar alimentos e produtos afins
+      222   Profissionais de enfermagem e partos                                  422   trab. de serviços de informação ao cliente                             817   Op. de instalações para a preparação de papel e de madeira
+      223   Profissionais da medicina tradicional e alternativa                   431   Auxiliares contábeis e financeiros                                     818   Outros operadores de instalações fixas e máquinas
+      224   Paramédicos                                                           432   trab. encarregados de registros de materiais e de                      821   Montadores
+      225   Veterinários                                                          441   transportes
+                                                                                        Outros trab. de apoio administrativo                                   831   Maquinistas de locomotivas e afins
+      226   Outros profissionais da saúde                                    5          TRAB. DOS SERVIÇOS, VENDEDORES DOS COMÉRCIOS E                         832   Condutores de automóveis, caminhonetes e motocicletas
+      231   Professores de universidades e do ensino superior                     511   MERCADOS
+                                                                                        trab. do serviço direto aos passageiros                                833   Condutores de caminhões pesados e ônibus
+      232   Professores de formação profissional                                  512   Cozinheiros                                                            834   Operadores de equipamentos móveis pesados
+      233   Professores do ensino médio                                           513   Garçons e atendentes de bar                                            835   Marinheiros de coberta e afins
+      234   Professores do ensino fundamental e pré-escolar                       514   Cabeleireiros, especialistas em tratamento de beleza e afins      9          OCUPAÇÕES ELEMENTARES
+      235   Outros profissionais do ensino                                        515   Supervisores de manutenção e limpeza de edifícios                      911   Trab. domésticos e de limpeza de interior de edifícios
+      241   Especialistas em finanças                                             516   Outros trab. de serviços pessoais                                      912   Lavadores de veículos, janelas, roupas e limpezas manuais
+      242   Especialistas em organização de administração                         521   Vendedores de rua e postos de mercado                                  921   trab. elementares da agropecuária, da pesca e florestais
+      243   Profissionais de vendas, comercialização e relações públicas          522   Comerciantes e vendedores de lojas                                     931   trab. elementares da mineração e da construção
+      251   Desenvolv. e analistas de programas, aplicativos/multimídia           523   Caixas e expedidores de bilhetes                                       932   trab. elementares da indústria de transformação
+      252   Especialistas em base de dados e em redes de computadores             524   Outros vendedores                                                      933   trab. elementares do transporte e armazenamento
+      261   Profissionais em direito                                              531   Cuidadores de crianças e ajudantes de professores                      941   Ajudantes de preparação de alimentos
+      262   Arquivologistas, curadores de museus, bibliotecários e afins          532   Trab. de cuidados pessoais nos serviços de saúde                       951   trab. ambulantes dos serviços e afins
+      263   Especialistas em ciências sociais e teologia                          541   Trab. dos serviços de proteção e segurança                             952   Vendedores ambulantes (excluso serviços de alimentação)
+      264   Escritores, jornalistas e linguistas                             6          TRAB. QUALIFICADOS DA AGROP., FLORESTAIS,                              961   Coletores de lixo
+      265   Artistas criativos e interpretativos                                  611   CAÇA/PESCAe trab. qualificados em ativ. da agricultura
+                                                                                        Agricultores                                                           962   Outras ocupações elementares
+ 3          TÉCNICOS E PROFISSIONAIS DE NÍVEL MÉDIO                               612   Criadores e trab. qualificados da pecuária                        0          MEMBROS DAS FORÇAS ARMADAS, POLICIAIS E BOMBEIROS MILITARES
+      311   Téc. em ciências físicas e da engenharia                              613   Prod./trab. qualificados de exploração agropecuária mista              11    Oficiais das forças armadas
+      312   Superv. em engenharia de minas, de indústrias de transf/constr        621   trab. florestais qualificados e afins                                  21    Graduados e praças das forças armadas
+      313   Téc. em controle de processos                                         622   Pescadores e caçadores                                                 41    Policiais militares
+                                                                                        TRABALHADORES QUALIFICADOS, OP. E ARTESÃOS DA
+      314   Téc. e profis. de nível médio em ciências biológicas e afins     7                                                                                 51    Bombeiros militares
+                                                                                        CONSTRUÇÃO, DAS ARTES MECÂNICAS E OUTROS OFÍCIOS
+      315   Téc. e controladores da navegação marítima e aeronáutica              711   trab. da construção civil em obras estruturais
+Fonte: PNADC/IBGE.
+                                                                                                                                                                                                                         18
+                                                        Anexo B
+
+Tabela 1B – Cenário: ranking das ocupações com as maiores participações no futuro – Brasil.
+ cod                            Descrição da Ocupação                            2019       5 anos         10 anos
+                                                                               Share    R Share
+                                                                                            depoisRk    Share
+                                                                                                           depois Rk
+ 524     Outros vendedores                                                      3,27    6
+                                                                                        k  6,46     3   11,84      1
+ 522     Comerciantes e vendedores de lojas                                     7,43    2  7,55     1    7,10      2
+ 911     Trab. domésticos e outros Trab. de limpeza de interior de edifícios    7,85    1  6,94     2    5,68      3
+ 611     Agricultores e Trab. qualificados em atividades da agricultura         3,75    4  3,96     4    3,87      4
+ 411     Escriturários gerais                                                   3,95    3  3,96     5    3,67      5
+ 832     Condutores de automóveis, caminhonetes e motocicletas                  2,72    7  3,01     6    3,08      6
+ 514     Cabeleireiros, especialistas em tratamento de beleza e afins           2,37    9  2,70     8    2,85      7
+ 521     Vendedores de rua e postos de mercado                                  1,20    2  1,87    13    2,71      8
+ 711     Trab. da construção civil em obras estruturais                         3,45    5
+                                                                                        2  2,77     7    2,06      9
+ 512     Cozinheiros                                                            1,64    1  1,91    12    2,05     10
+ 612     Criadores e Trab. qualificados da pecuária                             1,89    1
+                                                                                        7  2,03    10    2,01     11
+ 753     Trab. qualificados e op. confecção de roupas, calçados e acessórios    1,08    2
+                                                                                        3  1,50    18    1,92     12
+ 234     Professores do ensino fundamental e pré-escolar                        2,27    1
+                                                                                        4  2,15     9    1,89     13
+ 322     Prof. de nível médio de enfermagem e partos                            1,00    2
+                                                                                        0  1,38    21    1,77     14
+ 723     Mecânicos e reparadores de máquinas                                    1,79    1
+                                                                                        6  1,85    14    1,77     15
+ 261     Prof. em direito                                                       1,01    2
+                                                                                        4  1,37    22    1,72     16
+ 833     Condutores de caminhões pesados e ônibus                               2,11    1
+                                                                                        5  1,94    11    1,66     17
+ 422     Trab. de Serv. de informação ao cliente                                1,91    1  1,74    15    1,47     18
+ 121     Dirigentes de administração e de Serv.                                 1,36    2  1,46    19    1,45     19
+ 531     Cuidadores de crianças e ajudantes de professores                      1,22    2
+                                                                                        0  1,37    23    1,42     20
+ 751     Trab. qualificados do processamento de alimentos e afins               1,52    1  1,52    17    1,41     21
+ 226     Outros Prof. da saúde                                                  0,85    3
+                                                                                        8  1,09    27    1,30     22
+ 541     Trab. dos Serv. de proteção e segurança                                1,76    1
+                                                                                        3  1,55    16    1,27     23
+ 933     Trab. elementares do transporte e armazenamento                        1,45    1
+                                                                                        5  1,36    24    1,18     24
+ 523     Caixas e expedidores de bilhetes                                       1,11    2
+                                                                                        9  1,14    26    1,09     25
+ 325     Outros Prof. de nível médio da saúde                                   0,88    3  0,93    28    0,91     26
+ 741     Instaladores e reparadores de equipamentos elétricos                   0,85    3
+                                                                                        1  0,91    29    0,91     27
+ 731     Artesãos                                                               0,69    4
+                                                                                        5  0,82    35    0,91     28
+ 932     Trab. elementares da indústria de transformação                        0,81    4
+                                                                                        3  0,87    31    0,86     29
+ 532     Trab. de cuidados pessoais nos Serv. de saúde                          0,82    3
+                                                                                        0  0,87    30    0,86     30
+ 233     Professores do ensino médio                                            0,77    4
+                                                                                        9  0,84    33    0,85     31
+ 242     Especialistas em organização de administração                          0,57    5
+                                                                                        1  0,71    41    0,82     32
+ 341     Prof. de nível médio de Serv. jurídicos, sociais e religiosos          0,52    5
+                                                                                        1  0,68    42    0,82     33
+ 941     Ajudantes de preparação de alimentos                                   0,84    3
+                                                                                        6  0,85    32    0,80     34
+ 241     Especialistas em finanças                                              0,63    4
+                                                                                        8  0,74    39    0,80     35
+ 931     Trab. elementares da mineração e da construção                         1,70    1
+                                                                                        7  1,20    25    0,79     36
+ 834     Operadores de equipamentos móveis pesados                              0,84    3
+                                                                                        6  0,82    36    0,74     37
+ 921     Trab. elementares da agropecuária, da pesca e florestais               2,52    8
+                                                                                        6  1,41    20    0,73     38
+ 515     Supervisores de manutenção e limpeza de edifícios                      0,90    3  0,83    34    0,71     39
+ 143     Outros gerentes de Serv.                                               0,11    9
+                                                                                        0  0,28    77    0,68     40
+ 742     Instaladores e reparadores de equipamentos eletrônicos e de telecomunicações
+                                                                                0,25    8
+                                                                                        9  0,43    63    0,68     41
+ 222     Prof. de enfermagem e partos                                           0,41    6
+                                                                                        1  0,53    51    0,63     42
+ 235     Outros Prof. do ensino                                                 0,84    3
+                                                                                        6  0,76    38    0,63     43
+ 221     Médicos                                                                0,48    5
+                                                                                        7  0,56    49    0,62     44
+ 432     Trab. encarregados de registros de materiais e de transportes          0,95    2
+                                                                                        7  0,79    37    0,61     45
+ 713     Pintores, limpadores de fachadas e afins                               0,85    3
+                                                                                        8  0,73    40    0,59     46
+ 122     Dirigentes de vendas, comercialização e desenvolvimento                0,67    4  0,64    44    0,57     47
+ 962     Outras ocupações elementares                                           0,52    5
+                                                                                        4  0,56    50    0,55     48
+ 513     Garçons e atendentes de bar                                            0,77    4
+                                                                                        5  0,67    43    0,54     49
+ 263     Especialistas em ciências sociais e teologia                           0,58    5
+                                                                                        2  0,58    48    0,53     50
+ 333     Agentes de Serv. comerciais                                            0,65    4
+                                                                                        0  0,61    47    0,52     51
+ 342     Trab. do esporte e condicionamento físico                              0,30    7
+                                                                                        5  0,40    64    0,50     52
+ 243     Prof. de vendas, comercialização e relações públicas                   0,44    6
+                                                                                        7  0,49    57    0,50     53
+ 214     Engenheiros (exclusive eletrotecnólogos)                               0,45    5
+                                                                                        2  0,48    59    0,47     54
+ 251     Desenvolvedores e analistas de programas e aplicativos (software) e multimídia
+                                                                                0,41    6
+                                                                                        9  0,45    61    0,46     55
+ 351     Téc. em operações de TI e das comunicações e assistência ao usuário    0,45    6
+                                                                                        4  0,47    60    0,45     56
+ 516     Outros Trab. de Serv. pessoais                                         0,22    8
+                                                                                        0  0,32    71    0,43     57
+ 961     Coletores de lixo                                                      0,54    5
+                                                                                        6  0,50    53    0,43     58
+ 412     Secretários (geral)                                                    0,54    5
+                                                                                        2  0,50    54    0,43     59
+ 721     Moldadores, soldadores, chapistas, caldeireiros, montadores de estruturas
+                                                                                0,86    3
+                                                                                        4  0,63    45    0,42     60
+ 712     Trab. qualificados
+         metálicas  e afins da construção (acabamento)                          0,54    5
+                                                                                        2  0,49    56    0,42     61
+ 332     Agentes e corretores comerciais                                        0,62    4
+                                                                                        3  0,52    52    0,41     62
+ 134     Dirigentes e gerentes de Serv. Prof.                                   0,46    5
+                                                                                        8  0,45    62    0,41     63
+ 311     Téc. em ciências físicas e da engenharia                               0,95    2
+                                                                                        8  0,61    46    0,36     64
+ 331     Prof. de nível médio em finanças e matemática                          0,42    6
+                                                                                        9  0,40    65    0,35     65
+ 142     Gerentes de comércios atacadistas e varejistas                         0,64    4
+                                                                                        3  0,48    58    0,34     66
+ 912     Lavadores de veículos, janelas, roupas e outras limpezas manuais       0,37    7
+                                                                                        6  0,36    68    0,33     67
+ 132     Dirigentes de indústria de transformação, mineração, construção e distribuição
+                                                                                0,44    6
+                                                                                        0  0,39    67    0,32     68
+ 814     Operadores de máquinas para fabricar produtos de borracha, de papel e de
+                                                                                0,37    7
+                                                                                        1  0,35    69    0,31     69
+ 231     Professores  de universidades e do ensino superior
+         material plástico                                                      0,34    7
+                                                                                        1  0,34    70    0,31     70
+ 816     Operadores de máquinas para elaborar alimentos e produtos afins        0,28    7
+                                                                                        4  0,29    75    0,28     71
+ 216     Arquitetos, urbanistas, agrimensores e desenhistas                     0,31    7
+                                                                                        8  0,29    76    0,25     72
+Fonte:   elaboração dos autores com base nos microdados da PNADC/IBGE.                  6
+
+
+
+
+                                                                                                                  19
+Tabela 1B – Cenário: ranking das ocupações com as maiores participações no futuro no Brasil.
+Continuação.
+ cod                           Descrição da Ocupação                                  2019      5 anos depois      10 anos
+                                                                                  Share    Rk   Share     Rk    Share
+                                                                                                                   depois Rk
+ 334   Secretários administrativos e especializados                                0,60    49      0,39
+                                                                                                   e      66     0,24
+                                                                                                                  e       73
+ 815   Op. de máquinas para fabricar prod. têxteis, couro e pele                   0,99    27      0,49   55     0,23     74
+ 622   Pescadores e caçadores                                                      0,37    69      0,30   72     0,23     75
+ 264   Escritores, jornalistas e linguistas                                        0,17    91      0,20   88     0,21     76
+ 431   Auxiliares contábeis e financeiros                                          0,36    72      0,29   74     0,21     77
+ 141   Gerentes de hotéis e restaurantes                                           0,32    75      0,27   79     0,21     78
+ 722   Ferreiros, ferramenteiros e afins                                           0,40    67      0,29   73     0,20     79
+ 752   Trab. qualificados do tratamento da madeira, marceneiros e afins            0,39    68      0,28   78     0,18     80
+ 321   Téc. médicos e farmacêuticos                                                0,21    87      0,20   87     0,18     81
+ 335   Agentes da administração pública para aplicação da lei e afins              0,14    95      0,17   91     0,18     82
+ 265   Artistas criativos e interpretativos                                        0,27    80      0,23   82     0,18     83
+ 343   Prof. de nível médio em atividades culturais, artísticas e culinárias       0,25    82      0,22   83     0,17     84
+ 818   Outros operadores de instalações fixas e máquinas                           0,24    84      0,21   84     0,17     85
+ 133   Dirigentes de Serv. de TI e comunicações                                    0,08    10      0,13   94     0,17     86
+ 421   Caixas de banco, cobradores, pagadores e afins                              0,25    83
+                                                                                            1      0,21   86     0,17     87
+ 312   Superv. em engenharia de minas, de indústrias de transformação e da         0,27    79      0,21   85     0,15     88
+ 821   Montadores
+       construção                                                                  0,36    73      0,24   80     0,15     89
+ 213   Prof. em ciências biológicas                                                0,12    97      0,14   93     0,15     90
+ 511   Trab. do serviço direto aos passageiros                                     0,21    88      0,17   89     0,13     91
+ 754   Outros Trab. qualificados e operários da indústria e do artesanato          0,23    85      0,17   90     0,12     92
+ 952   Vendedores ambulantes (exclusive de Serv. de alimentação)                   0,41    65      0,23   81     0,12     93
+ 835   Marinheiros de coberta e afins                                              0,05    11      0,07   10     0,11     94
+ 225   Veterinários                                                                0,08    10
+                                                                                            2      0,09   99
+                                                                                                           2     0,10     95
+ 817   Op. de instalações para a preparação de papel e de processamento de         0,11    98
+                                                                                            3      0,11   98     0,10     96
+ 441   Outros
+       madeiraTrab. de apoio administrativo                                        0,19    89      0,14   92     0,09     97
+ 352   Téc. em telecomunicações e radiodifusão                                     0,15    93      0,12   95     0,09     98
+ 252   Especialistas em base de dados e em redes de computadores                   0,04    11      0,06   10     0,08     99
+ 812   Op. de instalações de processamento e recobridoras de metais                0,15    94
+                                                                                            4      0,11   96
+                                                                                                           4     0,08     10
+ 215   Engenheiros eletroTéc.                                                      0,08    10      0,08   10     0,07     10
+                                                                                                                           0
+ 111   Membros superiores do poder executivo e legislativo                         0,19    90
+                                                                                            2      0,11   97
+                                                                                                           1     0,06     10
+                                                                                                                           1
+ 732   Trab. qualificados e operários das artes gráficas                           0,12    96      0,09   10     0,06     10
+                                                                                                                           2
+ 951   Trab. ambulantes dos Serv. e afins                                          0,06    10      0,05   10
+                                                                                                           0     0,04     10
+                                                                                                                           3
+ 232   Professores de formação profissional                                        0,10    10
+                                                                                            7      0,06   10
+                                                                                                           6     0,03     10
+                                                                                                                           4
+ 262   Arquivologistas, curadores de museus, bibliotecários e afins                0,04    11
+                                                                                            0      0,04   10
+                                                                                                           5     0,03     10
+                                                                                                                           5
+ 813   Operadores de instalações e máquinas de produtos químicos e fotográficos    0,06    10
+                                                                                            3      0,04   10
+                                                                                                           9     0,03     10
+                                                                                                                           6
+ 112   Diretores gerais e gerentes gerais                                          0,16    92
+                                                                                            8      0,07   10
+                                                                                                           7     0,03     10
+                                                                                                                           7
+ 621   Trab. florestais qualificados e afins                                       0,06    10      0,04   10
+                                                                                                           3     0,02     10
+                                                                                                                           8
+ 211   Físicos, químicos e afins                                                   0,04    11
+                                                                                            6      0,03   11
+                                                                                                           8     0,02     11
+                                                                                                                           9
+ 315   Téc. e controladores da navegação marítima e aeronáutica                    0,05    11
+                                                                                            6      0,03   11
+                                                                                                           4     0,02     11
+                                                                                                                           0
+ 811   Op. de instalações mineradoras e de extração e processamento de minerais    0,05    11
+                                                                                            1      0,03   11
+                                                                                                           2     0,02     11
+                                                                                                                           1
+ 313   Téc. em controle de processos                                               0,06    10
+                                                                                            0      0,03   11
+                                                                                                           1     0,01     11
+                                                                                                                           2
+ 131   Dirigentes de prod. agropecuária, silvicultura, aquicultura e pesca         0,08    10
+                                                                                            9      0,03   11
+                                                                                                           3     0,01     11
+                                                                                                                           3
+ 314   Téc. e Prof. de nível médio em ciências biológicas e afins                  0,07    10
+                                                                                            4      0,03   11
+                                                                                                           0     0,01     11
+                                                                                                                           4
+ 324   Téc. e assistentes veterinários                                             0,02    11
+                                                                                            5      0,01   11
+                                                                                                           5     0,01     11
+                                                                                                                           5
+ 323   Prof. de nível médio de medicina tradicional e alternativa                  0,02    12
+                                                                                            9      0,01   11
+                                                                                                           7     0,01     11
+                                                                                                                           6
+ 413   Operadores de máquinas de escritório                                        0,04    11
+                                                                                            0      0,02   11
+                                                                                                           8     0,01     11
+                                                                                                                           7
+ 831   Maquinistas de locomotivas e afins                                          0,02    11
+                                                                                            5      0,01   11
+                                                                                                           6     0,01     11
+                                                                                                                           8
+ 223   Prof. da medicina tradicional e alternativa                                 0,00    12
+                                                                                            8      0,00   12
+                                                                                                           9     0,00     12
+                                                                                                                           9
+ 212   Matemáticos, atuários e estatísticos                                        0,00    12
+                                                                                            1      0,00   12
+                                                                                                           0     0,00     12
+                                                                                                                           0
+ 613   Prod. e Trab. qualificados de exploração agropecuária mista                 0,02    11
+                                                                                            2      0,00   12
+                                                                                                           1     0,00     12
+                                                                                                                           1
+ 224   Paramédicos                                                                 0,00    12
+                                                                                            7      0,00   12
+                                                                                                           2     0,00     12
+                                                                                                                           2
+       Total de empregos                                                            918185843    98.949.5773    115.103.7713
+Fonte: elaboração dos autores com base nos microdados da PNADC/IBGE.
+
+
+
+
+                                                                                                                          20
+

@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jobsite-frontend
+  namespace: jobsite
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jobsite-frontend
+  template:
+    metadata:
+      labels:
+        app: jobsite-frontend
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:latest
+        ports:
+        - containerPort: 80
+        volumeMounts:
+        - name: frontend-storage
+          mountPath: /usr/share/nginx/html
+      volumes:
+      - name: frontend-storage
+        hostPath:
+          path: "/home/thorsten/_site/frontend"

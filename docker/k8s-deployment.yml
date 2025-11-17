@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: job-evolution
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: job-evolution
+  template:
+    metadata:
+      labels:
+        app: job-evolution
+    spec:
+      containers:
+        - name: job-evolution
+          image: job-evolution:latest
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 8000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: job-evolution-service
+spec:
+  selector:
+    app: job-evolution
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 8000
+  type: LoadBalancer
+
+
+</html>

@@ -1,0 +1,16 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: job-crawler
+spec:
+  schedule: "0 3 * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+            - name: crawler
+              image: job-evolution:latest
+              command:
+                ["python", "crawler_predictor_site.py", "--query", "tecnologia Brasil", "--pages", "10"]
+          restartPolicy: OnFailure
