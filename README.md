@@ -34,6 +34,55 @@ Help individuals discover which career path fits them best
 Offer learning materials in technology, service industries, creative fields, sustainability, and more
 
 Use real data and statistics to show which sectors are growing
+│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├│ │ │ ├── [-rw-rw-r-- 4.4K] cells.py
+── [-rw-rw-r-- 18K] color.py
+── [-rw-rw-r-- 1.0K] color_triplet.py
+── [-rw-rw-r-- 7.0K] columns.py
+── [-rw-rw-r-- 97K] console.py
+── [-rw-rw-r-- 1.3K] constrain.py
+── [-rw-rw-r-- 5.4K] containers.py
+── [-rw-rw-r-- 6.5K] control.py
+── [-rw-rw-r-- 7.9K] default_styles.py
+── [-rw-rw-r-- 972] diagnose.py
+── [-rw-rw-r-- 2.4K] emoji.py
+── [-rw-rw-r-- 642] errors.py
+── [-rw-rw-r-- 1.6K] file_proxy.py
+── [-rw-rw-r-- 2.4K] filesize.py
+── [-rw-rw-r-- 9.4K] highlighter.py
+── [-rw-rw-r-- 4.9K] json.py
+── [-rw-rw-r-- 3.2K] jupyter.py
+── [-rw-rw-r-- 14K] layout.py
+── [-rw-rw-r-- 14K] live.py
+── [-rw-rw-r-- 3.6K] live_render.py
+── [-rw-rw-r-- 12K] logging.py
+── [-rw-rw-r-- 8.0K] markup.py
+── [-rw-rw-r-- 5.2K] measure.py
+── [-rw-rw-r-- 4.9K] padding.py
+── [-rw-rw-r-- 828] pager.py
+── [-rw-rw-r-- 3.3K] palette.py
+── [-rw-rw-r-- 10K] panel.py
+── [-rw-rw-r-- 35K] pretty.py
+── [-rw-rw-r-- 58K] progress.py
+── [-rw-rw-r-- 8.0K] progress_bar.py
+── [-rw-rw-r-- 11K] prompt.py
+── [-rw-rw-r-- 1.4K] protocol.py
+── [-rw-rw-r-- 166] region.py
+── [-rw-rw-r-- 4.3K] repr.py
+── [-rw-rw-r-- 4.5K] rule.py
+── [-rw-rw-r-- 2.8K] scope.py
+── [-rw-rw-r-- 1.6K] screen.py
+── [-rw-rw-r-- 24K] segment.py
+── [-rw-rw-r-- 4.2K] spinner.py
+── [-rw-rw-r-- 4.3K] status.py
+── [-rw-rw-r-- 26K] style.py
+── [-rw-rw-r-- 1.2K] styled.py
+── [-rw-rw-r-- 34K] syntax.py
+── [-rw-rw-r-- 39K] table.py
+── [-rw-rw-r-- 3.3K] terminal_theme.py ── [-rw-rw-r-- 44K] text.py
+── [-rw-rw-r-- 3.7K] theme.py
+── [-rw-rw-r-- 102] themes.py
+── [-rw-rw-r-- 29K] traceback.py│ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ ││ │ │ └── [-rw-rw-r-- 9.0K] tree.py│ │ ├│ │ ├── [-rw-rw-r-- 34K] six.py
+── [drwxrwxr-x 4.0K] tenacity│ │ │ ├── [-rw-rw-r-- 20K] __init__.py
 
 Guide learners step-by-step with courses, recommendations, and personalized insights
 
