@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for superproject on 2025-11-19T08:36:08Z
+# fly.toml app configuration file generated for super-sbc3vg on 2025-11-25T14:00:06Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'superproject'
-primary_region = 'iad'
+app = 'super-sbc3vg'
+primary_region = 'gru'
 
 [build]
 
